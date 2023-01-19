@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmirAce
+- 👋 Hi, I’m AmirAce
 - 👀 I’m interested in anime, designing, sports 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Java, C++
